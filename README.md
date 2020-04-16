@@ -1,3 +1,3 @@
-# slack_test
+# flack_test
 
-## slackについて学ぶ
+## flackについて学ぶ
